@@ -1,73 +1,71 @@
-darbin 10k f 1 month bla ads
-------------
-https://appstorespy.com/apps/play/BocaBocaTocaWednesdayAddams/com.theforce99.toca.wednesday.addams.tocaboca.hdwallpaper ---
-
-https://appstorespy.com/apps/play/GameAmandatheAdventurer/com.hpadmob.mobgames20 /50k sus ++
-
-https://appstorespy.com/apps/play/CutTheRopeRescueMaster/com.an.mastercut.ropepuzzle  /50K ++
-
-https://appstorespy.com/apps/play/ColorMonstersRoomMaze/com.falcon.myo.Rainbow.monsters.door /100k unity
-
-https://appstorespy.com/apps/play/SuperPlane/com.bubblebonanza /50k ++ unity
- 
-
-https://appstorespy.com/apps/play/SpiderTrainMonstersSurvival/com.choo.spider.train.challenge /100k unity
-
-https://appstorespy.com/apps/play/StickmanViperWarriors/com.saybia.stickmanviperwarriors  html ++++
-
-https://appstorespy.com/apps/play/RussianCarDriverUAZHUNTER/com.AB.RCDUAZ  100k html or unity ++++++
-
-https://appstorespy.com/apps/play/TheHorrorAdventurerAmanda2/com.horror.amanda.the.adventurer 100k unity +++++++
-
-https://appstorespy.com/apps/play/SkibidiToilet/com.skibiditoilet.vookoo.skibidi.toilet 50k unity ++++
-
-https://appstorespy.com/apps/play/TrickyTrickPuzzle/com.miracle.ricky.puzzle.an  30k html ++++
-
-https://appstorespy.com/apps/play/RealBusSimulatorBusGames/com.gxs.City.Coach.BusSimulator.BusDriving 50k unity ++++++
-
-https://appstorespy.com/apps/play/ArcadeSurvival/com.fcombat.fvehicle.survival
-
-https://appstorespy.com/apps/play/Bali'sWorldJungleBeach/com.blue.l2.run  html 50k ++++++
-
-https://appstorespy.com/apps/play/CarStuntSimulationGame3D/com.bc21.car.stunt.ts html or unity 50k +++
-
-https://appstorespy.com/apps/play/LittlePanda'sGirlsTown/com.sinyee.babybus.girlstown 200k html ++++++++
-
-https://appstorespy.com/apps/play/RubberDuckSimulator/com.sim.plastic.duck 50k unity ++++ sus
-
-https://appstorespy.com/apps/play/SuperSpiderFlipBikeFlyRun/com.euro.spiderflipbike 50k html or unity +++++
-
-https://appstorespy.com/apps/play/ArenaBreakoutLite/com.proximabeta.mf.liteuamo 80k unity html ++++++++
-
-https://appstorespy.com/apps/play/TRANSFORMERSForgedtoFight/com.netflix.NGP.TransformersForgedToFight +++ html or unity
-
-appstorespy.com/apps/play/PopatShortcutRace/com.neelamediatech.popatcutandrunadventure +++ html
-
-https://appstorespy.com/apps/play/AlphabetPixelColoring/com.sdmgz.alphabetpixelcoloringosj +++ html
-
-https://appstorespy.com/apps/play/RallyHorizon/com.Graypow.RallyHorizon ++++++ unity or html
-
-https://appstorespy.com/apps/play/RagdollHumanWorkshop/com.cdglobal.human.workshop ++++ unity
-
-https://appstorespy.com/apps/play/CreaturesPlayground/pixelfighting.english.first ++++ unity 
-
-https://appstorespy.com/apps/play/GartenHDBanban2Wallpaper/com.ghunapps.gardenofbanbanchapter2 +++++ unity
-
-https://appstorespy.com/apps/play/IndianHeavyDJGameDriver/com.GameSimulation.IndianHeavyDriverDJGamesimulate +++++ unity
-
-https://appstorespy.com/apps/play/SimbaColoringBook/com.PimpochkaGames.SimbaPaint +++++ html or unity
-
-https://appstorespy.com/apps/play/PoliceCarSimulator2023/com.clapgames.policecargames2023 ++++++++ unity or html
-
-https://appstorespy.com/apps/play/IndianDJGadiWala3DGame/com.aichacode.djgadiwala3dgamesimulator +++++ unity
-
-https://appstorespy.com/apps/play/GangsterMafiaCityCrime/com.mafiacity.ganestrar.gta
-
-https://appstorespy.com/apps/play/CarDriftingGamesهجولهتفحيط/com.hajwala.drift.racing.dubai.car.highway.drifter ++++ unity
-
-https://appstorespy.com/apps/play/ImpostorMakeoverMixMonster/com.impostormakeover.monstermaker ++++ unity or html
-
-https://appstorespy.com/apps/play/MotoCrashSimulatorAccident/com.SevenGearsGames.MotoCrashSimulatorAccident ++++ unity or html
-
-https://appstorespy.com/apps/play/TallVictorBanbenGarden3/com.haobis.tall.victor.banban.garten +++
-
+{
+  "apps": [
+    {
+      "name": "BocaBoca Toca Wednesday Addams",
+      "url": "https://appstorespy.com/apps/play/BocaBocaTocaWednesdayAddams/com.theforce99.toca.wednesday.addams.tocaboca.hdwallpaper",
+      "downloads": "10,000+",
+      "framework": "HTML"
+    },
+    {
+      "name": "Game Amanda the Adventurer",
+      "url": "https://appstorespy.com/apps/play/GameAmandatheAdventurer/com.hpadmob.mobgames20",
+      "downloads": "50,000+",
+      "framework": "Unity"
+    },
+    {
+      "name": "Cut The Rope Rescue Master",
+      "url": "https://appstorespy.com/apps/play/CutTheRopeRescueMaster/com.an.mastercut.ropepuzzle",
+      "downloads": "50,000+",
+      "framework": "Unity"
+    },
+    {
+      "name": "Color Monsters Room Maze",
+      "url": "https://appstorespy.com/apps/play/ColorMonstersRoomMaze/com.falcon.myo.Rainbow.monsters.door",
+      "downloads": "100,000+",
+      "framework": "Unity"
+    },
+    {
+      "name": "Super Plane",
+      "url": "https://appstorespy.com/apps/play/SuperPlane/com.bubblebonanza",
+      "downloads": "50,000+",
+      "framework": "Unity"
+    },
+    {
+      "name": "Spider Train Monsters Survival",
+      "url": "https://appstorespy.com/apps/play/SpiderTrainMonstersSurvival/com.choo.spider.train.challenge",
+      "downloads": "100,000+",
+      "framework": "Unity"
+    },
+    {
+      "name": "Stickman Viper Warriors",
+      "url": "https://appstorespy.com/apps/play/StickmanViperWarriors/com.saybia.stickmanviperwarriors",
+      "downloads": "N/A",
+      "framework": "HTML"
+    },
+    {
+      "name": "Russian Car Driver UAZ HUNTER",
+      "url": "https://appstorespy.com/apps/play/RussianCarDriverUAZHUNTER/com.AB.RCDUAZ",
+      "downloads": "100,000+",
+      "framework": "HTML or Unity"
+    },
+    {
+      "name": "The Horror Adventurer Amanda 2",
+      "url": "https://appstorespy.com/apps/play/TheHorrorAdventurerAmanda2/com.horror.amanda.the.adventurer",
+      "downloads": "100,000+",
+      "framework": "Unity"
+    },
+    {
+      "name": "Skibidi Toilet",
+      "url": "https://appstorespy.com/apps/play/SkibidiToilet/com.skibiditoilet.vookoo.skibidi.toilet",
+      "downloads": "50,000+",
+      "framework": "Unity"
+    },
+    {
+      "name": "Tricky Trick Puzzle",
+      "url": "https://appstorespy.com/apps/play/TrickyTrickPuzzle/com.miracle.ricky.puzzle.an",
+      "downloads": "30,000+",
+      "framework": "HTML"
+    },
+    {
+      "name": "Real Bus Simulator Bus Games",
+      "url": "https://appstorespy.com/apps/play/RealBusSimulatorBusGames
